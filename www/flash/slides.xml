@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<flash_parameters copyright="socusoftFSMTheme">
+    <preferences>
+        <global>
+            <basic_property movieWidth="500" movieHeight="350" groundinsize="2" html_title="Title" loadStyle="Bar" startAutoPlay="true" continuum="true" socusoftMenu="false" backgroundColor="0x1e1e1e" inbordercolor="0x000000" hideAdobeMenu="true" photoDynamicShow="true" enableURL="true" transitionArray=""/>
+            <title_property showTitle="false" photoTitleColor="0xffffff" backgroundColor="0x808080" alpha="30" autoHide="true"/>
+            <music_property path="" stream="true" loop="true"/>
+            <photo_property topPadding="5" bottomPadding="50" leftPadding="5" rightPadding="5"/>
+            <description_property textleftborder="3" texttopborder="2" enable="true" backgroundColor="0xa0a0a4" backgroundAlpha="100"/>
+        </global>
+        <thumbnail>
+            <basic_property thumWidth="40" thumHeight="40" skewwidth="30" skewheight="30" thumbnailposition="bottom" thumbnailboxboder="0" thumborder="1" thumSpacing="0" borderColor="0x000000" currentBorderColor="0xffffff" shadowalpha="60" thumway="inward"/>
+            <button_property btnhide="true" btnsize="20" btnspacing="5" buttonColor="0x808080" btnfiltercolor="0xffffff"/>
+        </thumbnail>
+    </preferences>
+    <album>
+        <slide jpegURL="thumbs/t_0002.jpg" d_URL="slides/p_0002.jpg" transition="41" panzoom="1" URLTarget="0" phototime="2" url="" title="House" width="490" height="295"/>
+        <slide jpegURL="thumbs/t_0003.jpg" d_URL="slides/p_0003.jpg" transition="65" panzoom="1" URLTarget="0" phototime="2" url="" title="LakeView" width="490" height="295"/>
+        <slide jpegURL="thumbs/t_0004.jpg" d_URL="slides/p_0004.jpg" transition="20" panzoom="1" URLTarget="0" phototime="2" url="" title="Lion" width="490" height="295"/>
+        <slide jpegURL="thumbs/t_0005.jpg" d_URL="slides/p_0005.jpg" transition="19" panzoom="1" URLTarget="0" phototime="2" url="" title="Zebra" width="490" height="295"/>
+        <slide jpegURL="thumbs/t_0006.jpg" d_URL="slides/p_0006.jpg" transition="10" panzoom="1" URLTarget="0" phototime="2" url="" title="Tribals_1" width="490" height="295"/>
+        <slide jpegURL="thumbs/t_0007.jpg" d_URL="slides/p_0007.jpg" transition="11" panzoom="1" URLTarget="0" phototime="2" url="" title="Tribals_2" width="490" height="295"/>
+        <slide jpegURL="thumbs/t_0008.jpg" d_URL="slides/p_0008.jpg" transition="29" panzoom="1" URLTarget="0" phototime="2" url="" title="TownView" width="490" height="295"/>
+        <slide jpegURL="thumbs/t_0009.jpg" d_URL="slides/p_0009.jpg" transition="41" panzoom="1" URLTarget="0" phototime="2" url="" title="Students" width="490" height="295"/>
+        <slide jpegURL="thumbs/t_0010.jpg" d_URL="slides/p_0010.jpg" transition="51" panzoom="1" URLTarget="0" phototime="2" url="" title="Sunset" width="490" height="295"/>
+    </album>
+</flash_parameters>
